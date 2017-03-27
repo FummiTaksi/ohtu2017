@@ -41,7 +41,7 @@ To see all tasks and more detail, run gradle tasks --all
 To see more detail about a task, run gradle help --task <task>
 </pre>
 
-Komento listaa käytettävissä olevat _taskit_. Gradlen [https://docs.gradle.org/current/userguide/tutorial_using_tasks.html](dokumentaatio) kuvaa taskeja seuraavasti:
+Komento listaa käytettävissä olevat _taskit_. Gradlen [https://docs.gradle.org/current/userguide/tutorial_using_tasks.html](dokumentaatio) kuvaa taskeja seuraavasti: <- linkki ei toimi!
 
 > Each gradle project is made up of one or more tasks. A task represents some atomic piece of work which a build performs. This might be compiling some classes, creating a JAR, generating Javadoc, or publishing some archives to a repository. 
 
